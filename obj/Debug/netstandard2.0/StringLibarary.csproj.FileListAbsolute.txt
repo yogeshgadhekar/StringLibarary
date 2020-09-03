@@ -1,0 +1,9 @@
+D:\Study\Project\StringLibarary\bin\Debug\netstandard2.0\StringLibarary.deps.json
+D:\Study\Project\StringLibarary\bin\Debug\netstandard2.0\StringLibarary.dll
+D:\Study\Project\StringLibarary\bin\Debug\netstandard2.0\StringLibarary.pdb
+D:\Study\Project\StringLibarary\obj\Debug\netstandard2.0\StringLibarary.csprojAssemblyReference.cache
+D:\Study\Project\StringLibarary\obj\Debug\netstandard2.0\StringLibarary.csproj.CoreCompileInputs.cache
+D:\Study\Project\StringLibarary\obj\Debug\netstandard2.0\StringLibarary.AssemblyInfoInputs.cache
+D:\Study\Project\StringLibarary\obj\Debug\netstandard2.0\StringLibarary.AssemblyInfo.cs
+D:\Study\Project\StringLibarary\obj\Debug\netstandard2.0\StringLibarary.dll
+D:\Study\Project\StringLibarary\obj\Debug\netstandard2.0\StringLibarary.pdb

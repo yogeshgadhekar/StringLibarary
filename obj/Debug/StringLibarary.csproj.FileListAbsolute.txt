@@ -1,0 +1,6 @@
+D:\Study\Project\StringLibarary\bin\Debug\StringLibarary.dll
+D:\Study\Project\StringLibarary\bin\Debug\StringLibarary.pdb
+D:\Study\Project\StringLibarary\obj\Debug\StringLibarary.csprojAssemblyReference.cache
+D:\Study\Project\StringLibarary\obj\Debug\StringLibarary.csproj.CoreCompileInputs.cache
+D:\Study\Project\StringLibarary\obj\Debug\StringLibarary.dll
+D:\Study\Project\StringLibarary\obj\Debug\StringLibarary.pdb
